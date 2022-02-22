@@ -28,9 +28,10 @@ Sou bióloga por formação, mas atualmente trabalho como Redatora SEO. Durante 
 </div>
   
 ##
-  
+<!--  
 <div> 
 
   ![Snake animation](https://github.com/gnaomi0/gnaomi0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+-->
