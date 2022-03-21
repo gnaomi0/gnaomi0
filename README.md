@@ -25,14 +25,15 @@ Sou bióloga por formação e iniciante no mundo dos códigos!
 <div align="center">
   <a href="https://github.com/gnaomi0">
   <img height="205em" src="https://github-readme-stats.vercel.app/api?username=gnaomi0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
- <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaomi0&layout=compact&langs_count=7&theme=dracula"/>-->
-</div>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaomi0&layout=compact&langs_count=7&theme=dracula"/> -->
+</div> 
   
 ##
-  
+  <!--
 <div> 
 
   ![Snake animation](https://github.com/gnaomi0/gnaomi0/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div> 
+-->
 
